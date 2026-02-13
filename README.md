@@ -29,5 +29,6 @@ Recruiters scan GitHub profiles in seconds. Students often lack the narrative de
 ### Scoring Explanation
 Scores are weighted heavily towards **Impact (25%)** and **Technical Depth (25%)**. Documentation and Organization make up the remaining 50%. The confidence score subtracts points for "Tutorial Clones" and lack of readme-driven development.
 
-This is the link for the DEMO VIDEO of the project:
+### DEMO VIDEO
+This is the link for the demo video of the project:
 https://drive.google.com/file/d/1aODOHcgvj1pehYtlRvb7mhVmHDH0p135/view?usp=drivesdk
